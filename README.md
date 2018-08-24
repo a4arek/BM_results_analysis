@@ -6,7 +6,7 @@
 
 See showcase in: https://github.com/a4arek/RTCI_results_analysis/blob/master/analyzer.ipynb
 
-Constirubtion welcomed
+Contirubtion welcomed
 
 TODO:
 
