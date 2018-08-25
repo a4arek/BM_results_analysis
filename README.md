@@ -6,6 +6,8 @@
 
 See showcase in: https://github.com/a4arek/RTCI_results_analysis/blob/master/analyzer.ipynb
 
+Here is the tutorial of using pandas for python transportation related analyses:  https://github.com/RafalKucharskiPK/DataScience_for_TransportationResearch/blob/master/demo.ipynb 
+
 Contirubtion welcomed
 
 TODO:
